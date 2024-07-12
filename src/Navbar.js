@@ -14,7 +14,7 @@ const Navbar = ()=>{
     <div class="collapse navbar-collapse nav justify-content-lg-end" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#"><NavLink to ="/">HOME</NavLink></a>
+          <a class="nav-link active" aria-current="page" href="#"><NavLink to ="/react">HOME</NavLink></a>
         </li>
         <li class="nav-item">
           <a class="nav-link active mx-lg-4" aria-current="page" href="#"><NavLink to ="/About">ABOUT</NavLink></a>
