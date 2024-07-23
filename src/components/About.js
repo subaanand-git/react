@@ -23,7 +23,7 @@ const About = ()=>{
          </div>
                {/* -------- content3 ----- */}
          <div class="col-lg-4 text-center mt-lg-5" id="content3">
-             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOrOHNWY-FHtEUOCLx-janQhPEKuV2wj0GJw&s" class="mt-lg-4"></img>
+            <img src="https://5.imimg.com/data5/SELLER/Default/2021/3/RA/HN/ID/119233132/flower-pot-blue-pottery-fp001-rs-399-one-pc-.jpg" class="mt-lg-4"></img>
          </div>
             </div>
 
